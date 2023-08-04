@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Debug\net7.0\CrlfChanger.exe
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Debug\net7.0\CrlfChanger.deps.json
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Debug\net7.0\CrlfChanger.runtimeconfig.json
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Debug\net7.0\CrlfChanger.dll
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Debug\net7.0\CrlfChanger.pdb
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.AssemblyInfo.cs
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.dll
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\refint\CrlfChanger.dll
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.pdb
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\CrlfChanger.genruntimeconfig.cache
+C:\Users\user\Desktop\tools\CrlfChanger\obj\Debug\net7.0\ref\CrlfChanger.dll

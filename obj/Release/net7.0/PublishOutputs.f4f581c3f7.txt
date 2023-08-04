@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Release\net7.0\publish\CrlfChanger.exe
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Release\net7.0\publish\CrlfChanger.dll
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Release\net7.0\publish\CrlfChanger.deps.json
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Release\net7.0\publish\CrlfChanger.runtimeconfig.json
+C:\Users\user\Desktop\tools\CrlfChanger\bin\Release\net7.0\publish\CrlfChanger.pdb
